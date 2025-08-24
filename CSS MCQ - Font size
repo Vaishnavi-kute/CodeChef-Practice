@@ -1,0 +1,12 @@
+MCQ - Font size
+The following HTML code is trying to change the fontsize of the paragraph text, but fails to do so.
+Why?
+
+<p fontsize='16px';>Why am I wrong?</p>
+
+Select one of the following options.
+
+1)Font size cannot be 16 px. It needs to be 16.
+2)The value of fontsize should be 'Arial' or 'Times New Roman'
+3) The font-size attribute is incorrect. 
+   The correct syntax is <p style = 'font-size: 16px;'>Why am I wrong?</p>
